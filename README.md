@@ -1,2 +1,2 @@
 # snowflake_CICD
-Run Snowflake CICD
+Integrate Snowflake CICD
